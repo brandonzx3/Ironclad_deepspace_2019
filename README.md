@@ -1,3 +1,5 @@
-# Ironclad_deepspace_2019
+# Ironclad 5847 deep space 2019
 
 ## Cool Robot Stuff
+
+** THE MOTION PROFILING FOLDER GOES IN TO THE DEEP SPACE 2019 FOLDER NOT THE ROOT FOLDER **
